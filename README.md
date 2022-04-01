@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Julio-Yoda" src="https://cdn.discordapp.com/attachments/959489182521253936/959542112624443473/pintinho-procurando.gif">
+  <img align="right" alt="Julio-Yoda" src="https://cdn.discordapp.com/attachments/942765025397977138/959543035501367346/a2985ba52a5cfa7cbe87c73337a3e487.gif">
  
 <div> 
   <a href="https://instagram.com/temper.ethos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
