@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Julio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Julio-Yoda" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Foh-my-god-chibi-ekko-teamfight-tactics-omg-oh-my-gosh-gif-23809179&psig=AOvVaw2VEkYI5qtfSJZkfa0VQlan&ust=1648928850835000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMi6ieXQ8_YCFQAAAAAdAAAAABAJ">
+  <img align="center" alt="Julio-Yoda" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fotanix%2Fpage%2Fblog%2Fgif%2FEKX0_6ocPuxWM8xYQ8Mk0wP0ogL07N17M2&psig=AOvVaw0jRNdBF4unsCdY7pyCoGtX&ust=1648928955108000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjktpXR8_YCFQAAAAAdAAAAABAD">
   ##
  
 <div> 
