@@ -27,7 +27,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Julio-ANDROID" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Julio-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Julio-NODEJS" height="30" width="40" src="https://cdn.discordapp.com/attachments/934284636811579445/959579154884481084/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png">
   <img align="right" alt="Julio-Yoda" src="https://cdn.discordapp.com/attachments/942765025397977138/959543035501367346/a2985ba52a5cfa7cbe87c73337a3e487.gif">
  
   ##
